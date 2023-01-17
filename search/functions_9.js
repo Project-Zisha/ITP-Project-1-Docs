@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['printdebugtable_0',['printDebugTable',['../class_maria_d_b.html#a7d452133672b68de5d598f99f159b8cc',1,'MariaDB']]]
+  ['ontextmessagereceived_0',['onTextMessageReceived',['../classplayer_communication_manager.html#a94aa35e338fc1e8aface64bcfcd757d2',1,'playerCommunicationManager']]],
+  ['open_1',['open',['../class_maria_d_b.html#a2f0be3b5e21f92343009b561c61db877',1,'MariaDB']]]
 ];

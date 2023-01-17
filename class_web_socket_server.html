@@ -100,10 +100,13 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a7822216bbcc2fe146e4a388e0fec0abc"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_web_socket_server.html#a7822216bbcc2fe146e4a388e0fec0abc">broadcast</a> (const QString &amp;message)</td></tr>
 <tr class="memdesc:a7822216bbcc2fe146e4a388e0fec0abc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Broadcasts a message to all connected clients.  <a href="class_web_socket_server.html#a7822216bbcc2fe146e4a388e0fec0abc">More...</a><br /></td></tr>
 <tr class="separator:a7822216bbcc2fe146e4a388e0fec0abc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a557c2bf54076e673a1a5095594fb1e64"><td class="memItemLeft" align="right" valign="top"><a id="a557c2bf54076e673a1a5095594fb1e64" name="a557c2bf54076e673a1a5095594fb1e64"></a>
+static <a class="el" href="class_web_socket_server.html">WebSocketServer</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getInstance</b> (quint16 port=8080)</td></tr>
+<tr class="separator:a557c2bf54076e673a1a5095594fb1e64"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >A class for managing WebSocket connections. </p>
-<p >This class manages WebSocket connections using a QWebSocketServer and a QList of QWebSocket objects. It provides methods for handling incoming messages, establishing new connections, and broadcasting messages to all connected clients. </p>
+<p >This class manages WebSocket connections using a QWebSocketServer and a QList of QWebSocket objects. It provides methods for handling incoming messages, establishing new connections, and broadcasting messages to all connected clients. </p><dl class="section note"><dt>Note</dt><dd>Code 200 - Connection established Code 201 - Received Message Code 202 - Received Binary Message </dd></dl>
 <dl class="section examples"><dt>Examples</dt><dd><a class="el" href="example_websocketserver_usage_8cpp-example.html#_a0">example_websocketserver_usage.cpp</a>.</dd>
 </dl>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -179,7 +182,7 @@ Static Public Member Functions</h2></td></tr>
 <dl class="section examples"><dt>Examples</dt><dd><a class="el" href="example_websocketserver_usage_8cpp-example.html#a1">example_websocketserver_usage.cpp</a>.</dd>
 </dl>
 
-<p class="reference">Referenced by <a class="el" href="class_h_t_t_p_test_route.html#ab7c45dc5853fdbef7fae9943e5ccdcab">HTTPTestRoute::handleRoute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="class_h_t_t_p_test_route.html#ab7c45dc5853fdbef7fae9943e5ccdcab">HTTPTestRoute::handleRoute()</a>, <a class="el" href="class_game.html#aaaa9c68775fc52fa09bc607888434d8a">Game::sendState()</a>, and <a class="el" href="class_game.html#a79df6376b332d63c9eca0dcee30305c3">Game::update()</a>.</p>
 
 </div>
 </div>

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['start_0',['start',['../class_http_server.html#ace9e1de09a040ce49d059b4baf06c471',1,'HttpServer']]]
+  ['queuefullexception_0',['QueueFullException',['../class_queue_full_exception.html',1,'']]],
+  ['queuemanager_1',['QueueManager',['../class_queue_manager.html',1,'QueueManager'],['../class_queue_manager.html#acc54fe1816c531a089cdff1d4c5ee397',1,'QueueManager::QueueManager()']]]
 ];

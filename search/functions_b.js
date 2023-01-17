@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['start_0',['start',['../class_http_server.html#ace9e1de09a040ce49d059b4baf06c471',1,'HttpServer']]]
+  ['queuemanager_0',['QueueManager',['../class_queue_manager.html#acc54fe1816c531a089cdff1d4c5ee397',1,'QueueManager']]]
 ];
