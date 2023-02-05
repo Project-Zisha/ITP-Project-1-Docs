@@ -1,0 +1,4 @@
+<map id="WebSocketServer::onBinaryMessageReceived" name="WebSocketServer::onBinaryMessageReceived">
+<area shape="rect" id="node1" title="Handles an incoming binary message." alt="" coords="5,5,191,45"/>
+<area shape="rect" id="node2" href="$class_j_s_o_n_utils.html#a9ef02c86c05a924a0c754fadd99c235f" title="Generates a JSON string from the given data." alt="" coords="239,13,413,38"/>
+</map>

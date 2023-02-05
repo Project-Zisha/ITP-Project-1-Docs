@@ -1,0 +1,4 @@
+<map id="MariaDB::printDebugTable" name="MariaDB::printDebugTable">
+<area shape="rect" id="node1" title="Prints the contents of a table to the console in a table&#45;like format." alt="" coords="5,5,179,31"/>
+<area shape="rect" id="node2" href="$class_maria_d_b.html#ae8de8c744a81c5b54bb7223bed559b6d" title="Executes a SQL query on the MariaDB database." alt="" coords="227,5,335,31"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="WebSocketClient" name="WebSocketClient">
+<area shape="rect" id="node1" title=" " alt="" coords="5,900,152,1072"/>
+<area shape="rect" id="node2" title=" " alt="" coords="17,599,92,639"/>
+<area shape="rect" id="node3" href="$classplayer_communication_manager.html" title=" " alt="" coords="97,768,319,837"/>
+<area shape="rect" id="node4" href="$class_game_state.html" title=" " alt="" coords="469,196,579,471"/>
+<area shape="rect" id="node7" href="$classview__multiplayer.html" title=" " alt="" coords="324,533,476,705"/>
+<area shape="rect" id="node5" href="$struct_ball.html" title=" " alt="" coords="431,5,515,119"/>
+<area shape="rect" id="node6" href="$struct_paddle.html" title=" " alt="" coords="540,13,609,111"/>
+<area shape="rect" id="node8" title=" " alt="" coords="172,313,244,353"/>
+<area shape="rect" id="node10" href="$classview___final_score.html" title=" " alt="" coords="116,555,300,683"/>
+<area shape="rect" id="node9" href="$class_player_manager.html" title=" " alt="" coords="269,225,411,441"/>
+</map>

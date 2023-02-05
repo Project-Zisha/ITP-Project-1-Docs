@@ -1,0 +1,5 @@
+<map id="JSONTestRoute::handleRoute" name="JSONTestRoute::handleRoute">
+<area shape="rect" id="node1" title="Handles an HTTP route request." alt="" coords="5,31,200,56"/>
+<area shape="rect" id="node2" href="$class_w_s_utils.html#aadc53e7c82e1ce749951848198e742ae" title="Creates a JSON HTTP response with the given content." alt="" coords="248,5,455,31"/>
+<area shape="rect" id="node3" href="$class_j_s_o_n_utils.html#a9ef02c86c05a924a0c754fadd99c235f" title="Generates a JSON string from the given data." alt="" coords="264,55,439,80"/>
+</map>

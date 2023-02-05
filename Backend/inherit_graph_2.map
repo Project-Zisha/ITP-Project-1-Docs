@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_route_handler.html" title="An interface for handling HTTP route requests. This interface defines a method for handling HTTP rout..." alt="" coords="5,55,108,80"/>
+<area shape="rect" id="node2" href="$class_h_t_t_p_test_route.html" title=" " alt="" coords="171,5,284,31"/>
+<area shape="rect" id="node3" href="$class_j_s_o_n_test_route.html" title=" " alt="" coords="170,55,285,80"/>
+<area shape="rect" id="node4" href="$class_request_queue_route.html" title=" " alt="" coords="156,104,299,129"/>
+</map>

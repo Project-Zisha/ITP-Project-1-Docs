@@ -1,0 +1,4 @@
+<map id="view_multiplayer::setPaddleColor" name="view_multiplayer::setPaddleColor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,188,45"/>
+<area shape="rect" id="node2" href="$class_player_manager.html#a54d24a94f942578f8aafb88a64dd84d3" title=" " alt="" coords="236,5,408,45"/>
+</map>

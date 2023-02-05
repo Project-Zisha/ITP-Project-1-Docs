@@ -1,0 +1,10 @@
+<map id="playerCommunicationManager::onTextMessageReceived" name="playerCommunicationManager::onTextMessageReceived">
+<area shape="rect" id="node1" title="Slot that is called when a text message is received." alt="" coords="5,97,203,137"/>
+<area shape="rect" id="node2" href="$class_game.html#a115e2c272c91e4ecbd6115d1eda70f38" title="Get the singleton instance of the Game class." alt="" coords="272,5,404,31"/>
+<area shape="rect" id="node3" href="$class_game.html#a20b5388fcfde98c1a7e203209f55dc0e" title="Move the left paddle down." alt="" coords="251,55,425,80"/>
+<area shape="rect" id="node5" href="$class_game.html#ac540dfa4cdec293a9244d56482baefdc" title="Move the left paddle up." alt="" coords="259,153,417,179"/>
+<area shape="rect" id="node7" href="$class_game.html#afe87f05e1740863bb3ba3a63d514a448" title="Move the right paddle down." alt="" coords="251,104,425,129"/>
+<area shape="rect" id="node8" href="$class_game.html#a73b2c7fce7c33f62e84318813a6b32b7" title="Move the right paddle up." alt="" coords="259,203,417,228"/>
+<area shape="rect" id="node4" href="$class_paddle.html#a593c434db6386b4308042f5cde1b601c" title="Move the paddle down." alt="" coords="473,92,605,117"/>
+<area shape="rect" id="node6" href="$class_paddle.html#aa3d152a70fad4409e95cde553fd5a927" title="Move the paddle up." alt="" coords="481,165,597,191"/>
+</map>

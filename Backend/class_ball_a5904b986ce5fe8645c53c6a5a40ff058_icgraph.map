@@ -1,0 +1,10 @@
+<map id="Ball::getRadius" name="Ball::getRadius">
+<area shape="rect" id="node1" title="Get the radius of the ball." alt="" coords="952,70,1063,95"/>
+<area shape="rect" id="node2" href="$class_game.html#ad59df6562a58a614fda24622d3715b65" title="Constructor for the Game class (private to enforce singleton)" alt="" coords="325,95,425,121"/>
+<area shape="rect" id="node3" href="$class_game.html#a39bb2fd26b5ea6b164f28f9f6723582e" title="Reset the game." alt="" coords="795,21,889,46"/>
+<area shape="rect" id="node8" href="$class_game.html#aaaa9c68775fc52fa09bc607888434d8a" title="Send the current state of the game." alt="" coords="780,70,904,95"/>
+<area shape="rect" id="node4" href="$class_web_socket_server.html#ac154ef831c6976c1c7b5df3f163d60b1" title="Slot called when a socket is disconnected from the server This method is called when a socket is disc..." alt="" coords="543,5,732,45"/>
+<area shape="rect" id="node7" href="$class_game.html#a79df6376b332d63c9eca0dcee30305c3" title="Update the game state." alt="" coords="585,70,689,95"/>
+<area shape="rect" id="node5" href="$class_web_socket_server.html#ab6e50bac4911b06b034a6b9c80731b32" title="Handles a new WebSocket connection." alt="" coords="256,13,495,38"/>
+<area shape="rect" id="node6" href="$class_web_socket_server.html#a0844660d9b11986f46ab4272a4e66eaa" title="Constructs a WebSocketServer object with the given parent." alt="" coords="5,5,208,45"/>
+</map>

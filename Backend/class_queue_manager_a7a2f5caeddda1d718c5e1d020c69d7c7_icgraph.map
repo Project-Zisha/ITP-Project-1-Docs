@@ -1,0 +1,5 @@
+<map id="QueueManager::getQueueSize" name="QueueManager::getQueueSize">
+<area shape="rect" id="node1" title="Get the current size of the queue." alt="" coords="543,13,743,38"/>
+<area shape="rect" id="node2" href="$class_web_socket_server.html#ab6e50bac4911b06b034a6b9c80731b32" title="Handles a new WebSocket connection." alt="" coords="256,13,495,38"/>
+<area shape="rect" id="node3" href="$class_web_socket_server.html#a0844660d9b11986f46ab4272a4e66eaa" title="Constructs a WebSocketServer object with the given parent." alt="" coords="5,5,208,45"/>
+</map>

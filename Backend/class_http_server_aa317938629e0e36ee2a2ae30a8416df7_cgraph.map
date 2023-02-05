@@ -1,0 +1,5 @@
+<map id="HttpServer::incomingConnection" name="HttpServer::incomingConnection">
+<area shape="rect" id="node1" title="Handles an incoming connection request." alt="" coords="5,31,212,56"/>
+<area shape="rect" id="node2" href="$class_w_s_utils.html#aadc53e7c82e1ce749951848198e742ae" title="Creates a JSON HTTP response with the given content." alt="" coords="260,5,467,31"/>
+<area shape="rect" id="node3" href="$class_w_s_utils.html#a0735f8a369eee7445d15e5fb7dcc5bf2" title="Checks if the given HTTP request method is allowed." alt="" coords="275,55,451,80"/>
+</map>

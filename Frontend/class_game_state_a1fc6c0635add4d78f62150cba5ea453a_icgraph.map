@@ -1,0 +1,6 @@
+<map id="GameState::getPaddle2" name="GameState::getPaddle2">
+<area shape="rect" id="node1" title=" " alt="" coords="708,13,869,38"/>
+<area shape="rect" id="node2" href="$classview__multiplayer.html#a4823c11cd8e854357536b4fc8deb2d25" title=" " alt="" coords="497,5,660,45"/>
+<area shape="rect" id="node3" href="$classplayer_communication_manager.html#a94aa35e338fc1e8aface64bcfcd757d2" title=" " alt="" coords="252,5,449,45"/>
+<area shape="rect" id="node4" href="$class_web_socket_client.html#a9d1181557b9036c9439b771e506b45ca" title=" " alt="" coords="5,5,204,45"/>
+</map>

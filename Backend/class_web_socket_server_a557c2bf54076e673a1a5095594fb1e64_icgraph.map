@@ -1,0 +1,7 @@
+<map id="WebSocketServer::getInstance" name="WebSocketServer::getInstance">
+<area shape="rect" id="node1" title=" " alt="" coords="477,55,679,80"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="342,5,393,31"/>
+<area shape="rect" id="node3" href="$class_game.html#aaaa9c68775fc52fa09bc607888434d8a" title="Send the current state of the game." alt="" coords="305,55,429,80"/>
+<area shape="rect" id="node4" href="$class_game.html#a79df6376b332d63c9eca0dcee30305c3" title="Update the game state." alt="" coords="153,80,257,105"/>
+<area shape="rect" id="node5" href="$class_game.html#ad59df6562a58a614fda24622d3715b65" title="Constructor for the Game class (private to enforce singleton)" alt="" coords="5,80,105,105"/>
+</map>

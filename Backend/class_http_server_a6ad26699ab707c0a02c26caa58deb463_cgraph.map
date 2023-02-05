@@ -1,0 +1,4 @@
+<map id="HttpServer::addRoute" name="HttpServer::addRoute">
+<area shape="rect" id="node1" title="Adds a route to the server." alt="" coords="5,5,151,31"/>
+<area shape="rect" id="node2" href="$class_i_route_handler.html#a1bea515342d5d0e43b6a004722cebd2e" title="Handles an HTTP route request." alt="" coords="199,5,381,31"/>
+</map>

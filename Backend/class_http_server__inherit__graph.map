@@ -1,0 +1,4 @@
+<map id="HttpServer" name="HttpServer">
+<area shape="rect" id="node1" title="A TCP server that handles HTTP requests This class is a subclass of QTcpServer and handles incoming H..." alt="" coords="5,93,164,236"/>
+<area shape="rect" id="node2" title=" " alt="" coords="38,5,131,45"/>
+</map>

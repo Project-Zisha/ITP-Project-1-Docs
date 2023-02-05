@@ -1,0 +1,7 @@
+<map id="Paddle::getPosition" name="Paddle::getPosition">
+<area shape="rect" id="node1" title="Get the position of the paddle." alt="" coords="489,31,624,56"/>
+<area shape="rect" id="node2" href="$class_ball.html#aae485f038308fd431e72549ba4142592" title="Check for collision between the ball and a Paddle object." alt="" coords="305,5,441,31"/>
+<area shape="rect" id="node5" href="$class_game.html#aaaa9c68775fc52fa09bc607888434d8a" title="Send the current state of the game." alt="" coords="311,55,435,80"/>
+<area shape="rect" id="node3" href="$class_game.html#a79df6376b332d63c9eca0dcee30305c3" title="Update the game state." alt="" coords="153,31,257,56"/>
+<area shape="rect" id="node4" href="$class_game.html#ad59df6562a58a614fda24622d3715b65" title="Constructor for the Game class (private to enforce singleton)" alt="" coords="5,31,105,56"/>
+</map>

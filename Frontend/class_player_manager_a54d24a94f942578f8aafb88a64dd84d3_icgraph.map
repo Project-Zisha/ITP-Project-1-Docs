@@ -1,0 +1,8 @@
+<map id="PlayerManager::getPlayerNumber" name="PlayerManager::getPlayerNumber">
+<area shape="rect" id="node1" title=" " alt="" coords="736,39,908,79"/>
+<area shape="rect" id="node2" href="$classview__multiplayer.html#a71d111077a3a2e89284cabccdded5355" title=" " alt="" coords="497,15,688,41"/>
+<area shape="rect" id="node4" href="$classview__multiplayer.html#a148e3b12bd6baf2a761feaee4d05ed63" title=" " alt="" coords="501,67,684,107"/>
+<area shape="rect" id="node3" href="$classview__multiplayer.html#ae272d57ad00ce8520e0e0b8efc6735c3" title=" " alt="" coords="277,5,425,45"/>
+<area shape="rect" id="node5" href="$classplayer_communication_manager.html#a94aa35e338fc1e8aface64bcfcd757d2" title=" " alt="" coords="252,69,449,109"/>
+<area shape="rect" id="node6" href="$class_web_socket_client.html#a9d1181557b9036c9439b771e506b45ca" title=" " alt="" coords="5,69,204,109"/>
+</map>

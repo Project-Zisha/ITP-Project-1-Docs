@@ -1,0 +1,4 @@
+<map id="Game::stop" name="Game::stop">
+<area shape="rect" id="node1" title="Stop the game." alt="" coords="5,5,96,31"/>
+<area shape="rect" id="node2" href="$class_log_utils.html#a6a3e6285791f1f62fcf795480dd33203" title=" " alt="" coords="144,5,288,31"/>
+</map>

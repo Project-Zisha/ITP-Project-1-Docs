@@ -1,0 +1,4 @@
+<map id="Game::movePaddle1Down" name="Game::movePaddle1Down">
+<area shape="rect" id="node1" title="Move the left paddle down." alt="" coords="5,5,180,31"/>
+<area shape="rect" id="node2" href="$class_paddle.html#a593c434db6386b4308042f5cde1b601c" title="Move the paddle down." alt="" coords="228,5,360,31"/>
+</map>

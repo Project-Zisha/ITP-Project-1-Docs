@@ -1,0 +1,3 @@
+<map id="HttpServer::Route" name="HttpServer::Route">
+<area shape="rect" id="node1" title="A struct representing a route in the HTTP server. A route consists of an HTTP method (e...." alt="" coords="5,5,133,75"/>
+</map>

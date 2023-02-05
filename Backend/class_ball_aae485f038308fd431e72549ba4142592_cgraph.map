@@ -1,0 +1,6 @@
+<map id="Ball::checkCollision" name="Ball::checkCollision">
+<area shape="rect" id="node1" title="Check for collision between the ball and a Paddle object." alt="" coords="5,55,141,80"/>
+<area shape="rect" id="node2" href="$class_paddle.html#ae3a9f507f6aeed28fe69a0d5bbf6cb03" title="Get the height of the paddle." alt="" coords="194,5,319,31"/>
+<area shape="rect" id="node3" href="$class_paddle.html#a8c2baa9369bc566ac5e20a89b14ceb6f" title="Get the position of the paddle." alt="" coords="189,55,324,80"/>
+<area shape="rect" id="node4" href="$class_paddle.html#a6d40a57e8778f20345866f13d77e5842" title="Get the width of the paddle." alt="" coords="195,104,318,129"/>
+</map>

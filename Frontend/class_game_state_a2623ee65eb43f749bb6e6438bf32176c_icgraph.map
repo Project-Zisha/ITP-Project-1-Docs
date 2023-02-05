@@ -1,0 +1,7 @@
+<map id="GameState::getInstance" name="GameState::getInstance">
+<area shape="rect" id="node1" title=" " alt="" coords="751,45,913,70"/>
+<area shape="rect" id="node2" href="$classplayer_communication_manager.html#af929ccb673d37903e05054a82df71e65" title=" " alt="" coords="497,5,703,45"/>
+<area shape="rect" id="node3" href="$classview__multiplayer.html#a4823c11cd8e854357536b4fc8deb2d25" title=" " alt="" coords="519,69,681,109"/>
+<area shape="rect" id="node4" href="$classplayer_communication_manager.html#a94aa35e338fc1e8aface64bcfcd757d2" title=" " alt="" coords="252,69,449,109"/>
+<area shape="rect" id="node5" href="$class_web_socket_client.html#a9d1181557b9036c9439b771e506b45ca" title=" " alt="" coords="5,69,204,109"/>
+</map>

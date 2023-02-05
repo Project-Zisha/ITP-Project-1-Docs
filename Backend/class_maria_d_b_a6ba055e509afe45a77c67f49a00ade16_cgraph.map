@@ -1,0 +1,4 @@
+<map id="MariaDB::~MariaDB" name="MariaDB::~MariaDB">
+<area shape="rect" id="node1" title="Destroys the MariaDB object and closes the database connection." alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node2" href="$class_maria_d_b.html#a50880e4db40ad773ce2de97b5cef1031" title="Closes the connection to the MariaDB database." alt="" coords="192,5,303,31"/>
+</map>

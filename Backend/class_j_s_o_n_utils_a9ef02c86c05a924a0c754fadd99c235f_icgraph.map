@@ -1,0 +1,8 @@
+<map id="JSONUtils::generateJSON" name="JSONUtils::generateJSON">
+<area shape="rect" id="node1" title="Generates a JSON string from the given data." alt="" coords="785,92,960,117"/>
+<area shape="rect" id="node2" href="$class_j_s_o_n_test_route.html#a5f2d6f7a2504158001f9d15e951a4269" title="Handles an HTTP route request." alt="" coords="543,5,737,31"/>
+<area shape="rect" id="node3" href="$class_web_socket_server.html#ad9675dcfe9528332bb810e459c6d7f47" title="Handles an incoming binary message." alt="" coords="547,55,733,95"/>
+<area shape="rect" id="node4" href="$class_web_socket_server.html#ab6e50bac4911b06b034a6b9c80731b32" title="Handles a new WebSocket connection." alt="" coords="256,120,495,145"/>
+<area shape="rect" id="node6" href="$class_web_socket_server.html#ac154ef831c6976c1c7b5df3f163d60b1" title="Slot called when a socket is disconnected from the server This method is called when a socket is disc..." alt="" coords="545,170,735,210"/>
+<area shape="rect" id="node5" href="$class_web_socket_server.html#a0844660d9b11986f46ab4272a4e66eaa" title="Constructs a WebSocketServer object with the given parent." alt="" coords="5,113,208,153"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="WSUtils::createHTMLResponse" name="WSUtils::createHTMLResponse">
+<area shape="rect" id="node1" title="Creates an HTML HTTP response with the given content." alt="" coords="247,5,453,31"/>
+<area shape="rect" id="node2" href="$class_h_t_t_p_test_route.html#ab7c45dc5853fdbef7fae9943e5ccdcab" title="Handles an HTTP route request." alt="" coords="5,5,199,31"/>
+</map>

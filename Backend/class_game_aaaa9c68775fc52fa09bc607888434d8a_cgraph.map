@@ -1,0 +1,12 @@
+<map id="Game::sendState" name="Game::sendState">
+<area shape="rect" id="node1" title="Send the current state of the game." alt="" coords="5,203,129,228"/>
+<area shape="rect" id="node2" href="$class_log_utils.html#aeee7cc8f03554b7f5b0a1c3add696596" title=" " alt="" coords="205,5,351,31"/>
+<area shape="rect" id="node3" href="$class_web_socket_server.html#a7822216bbcc2fe146e4a388e0fec0abc" title="Broadcasts a message to all connected clients." alt="" coords="183,55,373,80"/>
+<area shape="rect" id="node4" href="$class_ball.html#aea7689ec2b7af1dc0c3157813f68d35a" title="Get the diameter of the ball." alt="" coords="217,104,339,129"/>
+<area shape="rect" id="node5" href="$class_paddle.html#ae3a9f507f6aeed28fe69a0d5bbf6cb03" title="Get the height of the paddle." alt="" coords="215,153,341,179"/>
+<area shape="rect" id="node6" href="$class_web_socket_server.html#a557c2bf54076e673a1a5095594fb1e64" title=" " alt="" coords="177,203,379,228"/>
+<area shape="rect" id="node7" href="$class_ball.html#a4d0dfde0318159237431ffd9ac797182" title="Get the current position of the ball." alt="" coords="219,252,337,277"/>
+<area shape="rect" id="node8" href="$class_paddle.html#a8c2baa9369bc566ac5e20a89b14ceb6f" title="Get the position of the paddle." alt="" coords="211,301,345,327"/>
+<area shape="rect" id="node9" href="$class_ball.html#a4143d1967ac010dbf88afa43ea3883ab" title="Get the velocity of the ball." alt="" coords="219,351,337,376"/>
+<area shape="rect" id="node10" href="$class_paddle.html#a6d40a57e8778f20345866f13d77e5842" title="Get the width of the paddle." alt="" coords="217,400,339,425"/>
+</map>

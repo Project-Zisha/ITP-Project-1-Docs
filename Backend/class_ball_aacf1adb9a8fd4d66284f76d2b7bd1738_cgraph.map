@@ -1,0 +1,4 @@
+<map id="Ball::Ball" name="Ball::Ball">
+<area shape="rect" id="node1" title="Constructor for the Ball class." alt="" coords="5,5,80,31"/>
+<area shape="rect" id="node2" href="$class_ball.html#a0542bedee8744de589d8bf8f95c0f9a8" title="Give the ball a random amount of velocity. This method should only be called at the start of a round." alt="" coords="128,5,293,31"/>
+</map>

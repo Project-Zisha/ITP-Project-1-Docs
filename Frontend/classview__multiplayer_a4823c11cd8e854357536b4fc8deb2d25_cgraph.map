@@ -1,0 +1,9 @@
+<map id="view_multiplayer::updatePlayingField" name="view_multiplayer::updatePlayingField">
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,168,162"/>
+<area shape="rect" id="node2" href="$class_game_state.html#a00c5bf731eba6eb8d415d73a1001dd3c" title=" " alt="" coords="229,5,365,31"/>
+<area shape="rect" id="node3" href="$class_game_state.html#a2623ee65eb43f749bb6e6438bf32176c" title=" " alt="" coords="216,55,379,80"/>
+<area shape="rect" id="node4" href="$class_game_state.html#af79ca68b34bd167838ea6af9e48f5ff7" title=" " alt="" coords="217,104,378,129"/>
+<area shape="rect" id="node5" href="$class_game_state.html#a1fc6c0635add4d78f62150cba5ea453a" title=" " alt="" coords="217,153,378,179"/>
+<area shape="rect" id="node6" href="$class_game_state.html#aca0d4a351e7f31399b9d1915a60915d0" title=" " alt="" coords="220,203,375,228"/>
+<area shape="rect" id="node7" href="$class_game_state.html#acbe3955fb86ce60368d5242d9d19926d" title=" " alt="" coords="220,252,375,277"/>
+</map>

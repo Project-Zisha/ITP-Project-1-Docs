@@ -1,0 +1,4 @@
+<map id="HTTPTestRoute" name="HTTPTestRoute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,108,144,177"/>
+<area shape="rect" id="node2" href="$class_i_route_handler.html" title="An interface for handling HTTP route requests. This interface defines a method for handling HTTP rout..." alt="" coords="15,5,135,60"/>
+</map>

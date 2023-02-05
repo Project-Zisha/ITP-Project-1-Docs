@@ -1,0 +1,5 @@
+<map id="Ball::setVelocity" name="Ball::setVelocity">
+<area shape="rect" id="node1" title="Set the velocity of the ball." alt="" coords="305,5,423,31"/>
+<area shape="rect" id="node2" href="$class_game.html#a79df6376b332d63c9eca0dcee30305c3" title="Update the game state." alt="" coords="153,5,257,31"/>
+<area shape="rect" id="node3" href="$class_game.html#ad59df6562a58a614fda24622d3715b65" title="Constructor for the Game class (private to enforce singleton)" alt="" coords="5,5,105,31"/>
+</map>

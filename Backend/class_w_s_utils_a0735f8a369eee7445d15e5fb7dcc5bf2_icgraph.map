@@ -1,0 +1,4 @@
+<map id="WSUtils::isAllowedMethod" name="WSUtils::isAllowedMethod">
+<area shape="rect" id="node1" title="Checks if the given HTTP request method is allowed." alt="" coords="260,5,436,31"/>
+<area shape="rect" id="node2" href="$class_http_server.html#aa317938629e0e36ee2a2ae30a8416df7" title="Handles an incoming connection request." alt="" coords="5,5,212,31"/>
+</map>

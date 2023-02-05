@@ -1,0 +1,4 @@
+<map id="Game::update" name="Game::update">
+<area shape="rect" id="node1" title="Update the game state." alt="" coords="153,5,257,31"/>
+<area shape="rect" id="node2" href="$class_game.html#ad59df6562a58a614fda24622d3715b65" title="Constructor for the Game class (private to enforce singleton)" alt="" coords="5,5,105,31"/>
+</map>

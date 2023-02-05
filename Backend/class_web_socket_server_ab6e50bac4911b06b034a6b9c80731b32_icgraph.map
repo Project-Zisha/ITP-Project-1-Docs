@@ -1,0 +1,4 @@
+<map id="WebSocketServer::onNewConnection" name="WebSocketServer::onNewConnection">
+<area shape="rect" id="node1" title="Handles a new WebSocket connection." alt="" coords="256,13,495,38"/>
+<area shape="rect" id="node2" href="$class_web_socket_server.html#a0844660d9b11986f46ab4272a4e66eaa" title="Constructs a WebSocketServer object with the given parent." alt="" coords="5,5,208,45"/>
+</map>

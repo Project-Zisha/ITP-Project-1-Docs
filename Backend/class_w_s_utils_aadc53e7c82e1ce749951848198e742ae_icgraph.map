@@ -1,0 +1,5 @@
+<map id="WSUtils::createJSONResponse" name="WSUtils::createJSONResponse">
+<area shape="rect" id="node1" title="Creates a JSON HTTP response with the given content." alt="" coords="260,31,467,56"/>
+<area shape="rect" id="node2" href="$class_j_s_o_n_test_route.html#a5f2d6f7a2504158001f9d15e951a4269" title="Handles an HTTP route request." alt="" coords="11,5,206,31"/>
+<area shape="rect" id="node3" href="$class_http_server.html#aa317938629e0e36ee2a2ae30a8416df7" title="Handles an incoming connection request." alt="" coords="5,55,212,80"/>
+</map>

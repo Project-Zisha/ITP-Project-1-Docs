@@ -1,0 +1,5 @@
+<map id="MariaDB::close" name="MariaDB::close">
+<area shape="rect" id="node1" title="Closes the connection to the MariaDB database." alt="" coords="192,31,303,56"/>
+<area shape="rect" id="node2" href="$example__mariadb__usage_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="49,5,100,31"/>
+<area shape="rect" id="node3" href="$class_maria_d_b.html#a6ba055e509afe45a77c67f49a00ade16" title="Destroys the MariaDB object and closes the database connection." alt="" coords="5,55,144,80"/>
+</map>

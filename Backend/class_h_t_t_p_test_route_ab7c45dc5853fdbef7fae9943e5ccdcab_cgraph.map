@@ -1,0 +1,5 @@
+<map id="HTTPTestRoute::handleRoute" name="HTTPTestRoute::handleRoute">
+<area shape="rect" id="node1" title="Handles an HTTP route request." alt="" coords="5,31,199,56"/>
+<area shape="rect" id="node2" href="$class_web_socket_server.html#a7822216bbcc2fe146e4a388e0fec0abc" title="Broadcasts a message to all connected clients." alt="" coords="255,5,445,31"/>
+<area shape="rect" id="node3" href="$class_w_s_utils.html#a71c61ecacd3e396bc2ba6c09ad95a898" title="Creates an HTML HTTP response with the given content." alt="" coords="247,55,453,80"/>
+</map>

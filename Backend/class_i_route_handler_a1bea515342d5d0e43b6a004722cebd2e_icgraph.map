@@ -1,0 +1,4 @@
+<map id="IRouteHandler::handleRoute" name="IRouteHandler::handleRoute">
+<area shape="rect" id="node1" title="Handles an HTTP route request." alt="" coords="199,5,381,31"/>
+<area shape="rect" id="node2" href="$class_http_server.html#a6ad26699ab707c0a02c26caa58deb463" title="Adds a route to the server." alt="" coords="5,5,151,31"/>
+</map>

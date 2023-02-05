@@ -1,0 +1,13 @@
+<map id="WebSocketServer::onSocketDisconnected" name="WebSocketServer::onSocketDisconnected">
+<area shape="rect" id="node1" title="Slot called when a socket is disconnected from the server This method is called when a socket is disc..." alt="" coords="5,97,195,137"/>
+<area shape="rect" id="node2" href="$class_j_s_o_n_utils.html#a9ef02c86c05a924a0c754fadd99c235f" title="Generates a JSON string from the given data." alt="" coords="248,5,423,31"/>
+<area shape="rect" id="node3" href="$class_game.html#a115e2c272c91e4ecbd6115d1eda70f38" title="Get the singleton instance of the Game class." alt="" coords="269,55,401,80"/>
+<area shape="rect" id="node4" href="$class_game.html#a39bb2fd26b5ea6b164f28f9f6723582e" title="Reset the game." alt="" coords="288,104,383,129"/>
+<area shape="rect" id="node9" href="$class_queue_manager.html#a077d26831341b608006850cab68f032e" title="Reset the queue." alt="" coords="243,153,428,179"/>
+<area shape="rect" id="node10" href="$class_game.html#a17fbb36fd4a2085f9ff4f1fa93d7d08b" title="Stop the game." alt="" coords="290,203,381,228"/>
+<area shape="rect" id="node5" href="$class_ball.html#aea7689ec2b7af1dc0c3157813f68d35a" title="Get the diameter of the ball." alt="" coords="497,5,620,31"/>
+<area shape="rect" id="node6" href="$class_ball.html#afaeb85c9e94015be480299fce98d3dee" title="set the position of the ball" alt="" coords="500,55,617,80"/>
+<area shape="rect" id="node7" href="$class_paddle.html#a71bc35d22a10f5fc6a03ec33c3528267" title="Set the position of the paddle." alt="" coords="491,104,626,129"/>
+<area shape="rect" id="node8" href="$class_ball.html#a0542bedee8744de589d8bf8f95c0f9a8" title="Give the ball a random amount of velocity. This method should only be called at the start of a round." alt="" coords="476,153,641,179"/>
+<area shape="rect" id="node11" href="$class_log_utils.html#a6a3e6285791f1f62fcf795480dd33203" title=" " alt="" coords="487,203,631,228"/>
+</map>

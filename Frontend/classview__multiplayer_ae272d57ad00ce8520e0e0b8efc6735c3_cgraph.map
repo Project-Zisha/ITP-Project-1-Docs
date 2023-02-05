@@ -1,0 +1,8 @@
+<map id="view_multiplayer::view_multiplayer" name="view_multiplayer::view_multiplayer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,153,71"/>
+<area shape="rect" id="node2" href="$class_player_manager.html#a268b0a0e97bcc20541ef39c6e90e3a7f" title=" " alt="" coords="205,13,389,39"/>
+<area shape="rect" id="node3" href="$classview__multiplayer.html#a71d111077a3a2e89284cabccdded5355" title=" " alt="" coords="201,63,392,88"/>
+<area shape="rect" id="node4" href="$class_web_socket_client.html#ac4dff3c84b20850e69f6d2b4ac48c99b" title=" " alt="" coords="447,5,645,31"/>
+<area shape="rect" id="node5" href="$class_player_manager.html#a54d24a94f942578f8aafb88a64dd84d3" title=" " alt="" coords="460,55,632,95"/>
+<area shape="rect" id="node6" href="$class_web_socket_client.html#a4992ad12303397df8034ec55c07d00f5" title=" " alt="" coords="440,120,652,145"/>
+</map>

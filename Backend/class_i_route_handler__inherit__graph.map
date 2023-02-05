@@ -1,0 +1,6 @@
+<map id="IRouteHandler" name="IRouteHandler">
+<area shape="rect" id="node1" title="An interface for handling HTTP route requests. This interface defines a method for handling HTTP rout..." alt="" coords="179,5,299,60"/>
+<area shape="rect" id="node2" href="$class_h_t_t_p_test_route.html" title=" " alt="" coords="5,108,144,177"/>
+<area shape="rect" id="node3" href="$class_j_s_o_n_test_route.html" title=" " alt="" coords="168,108,309,177"/>
+<area shape="rect" id="node4" href="$class_request_queue_route.html" title=" " alt="" coords="333,108,501,177"/>
+</map>

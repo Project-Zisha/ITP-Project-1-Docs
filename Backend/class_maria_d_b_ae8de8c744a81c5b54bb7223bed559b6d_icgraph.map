@@ -1,0 +1,5 @@
+<map id="MariaDB::exec" name="MariaDB::exec">
+<area shape="rect" id="node1" title="Executes a SQL query on the MariaDB database." alt="" coords="325,5,433,31"/>
+<area shape="rect" id="node2" href="$example__mariadb__usage_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,56,31"/>
+<area shape="rect" id="node3" href="$class_maria_d_b.html#a7d452133672b68de5d598f99f159b8cc" title="Prints the contents of a table to the console in a table&#45;like format." alt="" coords="104,31,277,56"/>
+</map>

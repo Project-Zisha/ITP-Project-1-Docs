@@ -1,0 +1,6 @@
+<map id="view_waitingInQueue::getInstance" name="view_waitingInQueue::getInstance">
+<area shape="rect" id="node1" title=" " alt="" coords="511,37,652,77"/>
+<area shape="rect" id="node2" href="$class_menu_window.html#a7e3027142675b703d4b9e38cff453d24" title=" " alt="" coords="252,5,463,45"/>
+<area shape="rect" id="node3" href="$classplayer_communication_manager.html#a94aa35e338fc1e8aface64bcfcd757d2" title=" " alt="" coords="259,69,456,109"/>
+<area shape="rect" id="node4" href="$class_web_socket_client.html#a9d1181557b9036c9439b771e506b45ca" title=" " alt="" coords="5,69,204,109"/>
+</map>

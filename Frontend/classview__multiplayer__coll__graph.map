@@ -1,0 +1,8 @@
+<map id="view_multiplayer" name="view_multiplayer">
+<area shape="rect" id="node1" title=" " alt="" coords="97,533,249,705"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,313,77,353"/>
+<area shape="rect" id="node3" href="$class_player_manager.html" title=" " alt="" coords="102,225,245,441"/>
+<area shape="rect" id="node4" href="$class_game_state.html" title=" " alt="" coords="269,196,379,471"/>
+<area shape="rect" id="node5" href="$struct_ball.html" title=" " alt="" coords="231,5,315,119"/>
+<area shape="rect" id="node6" href="$struct_paddle.html" title=" " alt="" coords="340,13,409,111"/>
+</map>

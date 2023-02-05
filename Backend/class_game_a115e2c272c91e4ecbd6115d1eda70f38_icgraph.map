@@ -1,0 +1,8 @@
+<map id="Game::getInstance" name="Game::getInstance">
+<area shape="rect" id="node1" title="Get the singleton instance of the Game class." alt="" coords="788,85,920,111"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="616,5,667,31"/>
+<area shape="rect" id="node3" href="$class_web_socket_server.html#ab6e50bac4911b06b034a6b9c80731b32" title="Handles a new WebSocket connection." alt="" coords="256,113,495,139"/>
+<area shape="rect" id="node5" href="$class_web_socket_server.html#ac154ef831c6976c1c7b5df3f163d60b1" title="Slot called when a socket is disconnected from the server This method is called when a socket is disc..." alt="" coords="547,106,736,146"/>
+<area shape="rect" id="node6" href="$classplayer_communication_manager.html#a94aa35e338fc1e8aface64bcfcd757d2" title="Slot that is called when a text message is received." alt="" coords="543,170,740,210"/>
+<area shape="rect" id="node4" href="$class_web_socket_server.html#a0844660d9b11986f46ab4272a4e66eaa" title="Constructs a WebSocketServer object with the given parent." alt="" coords="5,106,208,146"/>
+</map>
